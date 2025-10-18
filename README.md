@@ -55,7 +55,7 @@
   <tbody>
     <tr>
       <td colspan="4" align="center">
-        ![Copy of Untitled](https://github.com/user-attachments/assets/ca9be370-74d3-4dec-b894-242f48fa2b72)
+        <img (https://github.com/user-attachments/assets/bcac7705-196f-46fa-acb3-a406aff9021c)>
       </td>
     </tr>
   </tbody>
