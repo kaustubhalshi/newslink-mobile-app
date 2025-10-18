@@ -43,28 +43,23 @@
 
 ## 📸 Screenshots
 
-### Light Mode
-<p float="left">
-  <img src="screenshots/splash_light.png" width="200" alt="Splash Screen"/>
-  <img src="screenshots/explore_light.png" width="200" alt="Explore Screen"/>
-  <img src="screenshots/search_light.png" width="200" alt="Search Screen"/>
-  <img src="screenshots/bookmarks_light.png" width="200" alt="Bookmarks Screen"/>
-</p>
-
-### Dark Mode
-<p float="left">
-  <img src="screenshots/splash_dark.png" width="200" alt="Splash Screen Dark"/>
-  <img src="screenshots/explore_dark.png" width="200" alt="Explore Screen Dark"/>
-  <img src="screenshots/detail_dark.png" width="200" alt="Detail Screen Dark"/>
-  <img src="screenshots/webview_dark.png" width="200" alt="WebView Screen Dark"/>
-</p>
-
-### Key Screens
-<p float="left">
-  <img src="screenshots/categories.png" width="200" alt="Category Tabs"/>
-  <img src="screenshots/news_detail.png" width="200" alt="News Detail"/>
-  <img src="screenshots/floating_nav.png" width="200" alt="Floating Navigation"/>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Home Screen</th>
+      <th>Lesson Screen</th>
+      <th>Audio Player Screen</th>
+      <th>Progress Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="4" align="center">
+        <img width="800" alt="All Screens" src="https://github.com/user-attachments/assets/51180515-a4af-4bc7-a794-923e3a3159ad" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
