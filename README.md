@@ -51,8 +51,8 @@
 <table>
   <thead>
     <tr>
-      <th>Explore Screen</th>
-      <th>Article Details Screen</th>
+      <th>Explore News Screen</th>
+      <th>News Details Screen</th>
       <th>Search Screen</th>
       <th>Bookmark Screen</th>
     </tr>
@@ -87,5 +87,5 @@
 
 ## 🚀 Installation
 
-### 1. Clone the Repository
+### Intall the app-release.apk file in main directory
 
