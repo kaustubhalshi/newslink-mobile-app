@@ -55,7 +55,7 @@
   <tbody>
     <tr>
       <td colspan="4" align="center">
-        <img width="800" alt="All Screens" src="https://github.com/user-attachments/assets/51180515-a4af-4bc7-a794-923e3a3159ad" />
+        ![Copy of Untitled](https://github.com/user-attachments/assets/ca9be370-74d3-4dec-b894-242f48fa2b72)
       </td>
     </tr>
   </tbody>
