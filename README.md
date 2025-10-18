@@ -87,5 +87,5 @@
 
 ## 🚀 Installation
 
-### Intall the app-release.apk file in main directory
+### Intall the app-release.apk file from the main directory
 
