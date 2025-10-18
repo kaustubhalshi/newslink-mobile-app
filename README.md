@@ -1,7 +1,6 @@
 # 📰 NewsLink
 
 <div align="center">
-  <img src="assets/images/logo.png" alt="NewsLink Logo" width="200"/>
   
   ### A News Application Built with Flutter
   
