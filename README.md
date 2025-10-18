@@ -80,18 +80,6 @@
 
 ---
 
-## 📋 Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) (3.0 or higher)
-- [Dart SDK](https://dart.dev/get-dart) (3.0 or higher)
-- Android Studio / VS Code with Flutter extensions
-- Git
-- A physical device or emulator for testing
-
----
-
 ## 🚀 Installation
 
 ### 1. Clone the Repository
