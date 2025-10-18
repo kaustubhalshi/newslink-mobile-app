@@ -55,7 +55,7 @@
   <tbody>
     <tr>
       <td colspan="4" align="center">
-        <img (https://github.com/user-attachments/assets/bcac7705-196f-46fa-acb3-a406aff9021c)>
+        <img width="800" alt="All Screens" src="https://github.com/user-attachments/assets/bcac7705-196f-46fa-acb3-a406aff9021c" />
       </td>
     </tr>
   </tbody>
