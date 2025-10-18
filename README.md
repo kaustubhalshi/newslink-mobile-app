@@ -39,6 +39,11 @@
 - **Lottie Animations** - Smooth splash screen animations
 - **Clean Architecture** - Well-organized code structure with separation of concerns
 
+### 🔧 **All Screens in NewsLink**
+- **3 Main Navigation Tabs** - Explore, Search, Bookmarks
+- **2 Detail Screens** - News Detail, WebView
+- **2 Entry Screens** - Splash, Home
+
 ---
 
 ## 📸 Screenshots
@@ -46,10 +51,10 @@
 <table>
   <thead>
     <tr>
-      <th>Home Screen</th>
-      <th>Lesson Screen</th>
-      <th>Audio Player Screen</th>
-      <th>Progress Screen</th>
+      <th>Explore Screen</th>
+      <th>Article Details Screen</th>
+      <th>Search Screen</th>
+      <th>Bookmark Screen</th>
     </tr>
   </thead>
   <tbody>
