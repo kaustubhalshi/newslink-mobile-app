@@ -9,9 +9,8 @@
   [![Dart](https://img.shields.io/badge/Dart-3.0%2B-0175C2?logo=dart)](https://dart.dev)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   
-  Stay informed with the latest news from around the world with a stunning gradient UI and dark mode support.
   
-  [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage](#-usage)
+  [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation)
 </div>
 
 ---
