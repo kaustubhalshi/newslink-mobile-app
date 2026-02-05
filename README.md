@@ -15,7 +15,7 @@
 
 ## ✨ Features
 
-### 🎨 **Beautiful UI/UX**
+### 🎨 **UI/UX**
 - **Pink Gradient Theme** - Modern and eye-catching design with hot pink gradients
 - **Dark Mode Support** - Seamless toggle between light and dark themes
 - **Floating Bottom Navigation** - Elegant floating navigation bar with smooth animations
