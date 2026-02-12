@@ -1,4 +1,4 @@
-# 📰 NewsLink Mobile App
+# 📰 NewsLink App
 
 <div align="center">
   
